@@ -1,0 +1,23 @@
+{
+  "name": "github_finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Finder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moni310/GitHub_Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moni310/GitHub_Finder/issues"
+  },
+  "homepage": "https://github.com/moni310/GitHub_Finder#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3"
+  }
+}
